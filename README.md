@@ -4,7 +4,7 @@
 
 - Please replace DEVICE variable with your device folder `DEVICE="RedmiNote7Pkg"`
 - Extract efi drivers from XBL.efl or XBL.img dump
-- Also create `gen_config.fdf` sections file and add UUIDs in each driver fodler for reference
+- Also create `gen_config.fdf` sections file and add UUIDs in each driver folder for reference
 
 
 I hope that will help in your future projects<br><br>
