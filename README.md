@@ -3,7 +3,7 @@
 [![download](https://img.shields.io/github/downloads/serdeliuk/xbl-extract/total)](https://github.com/serdeliuk/xbl-extract/releases/download/1/xbl-extract.sh.zip)
 
 - Please replace DEVICE variable with your device folder `DEVICE="RedmiNote7Pkg"`
-- Extract efi drivers from XBL.efl or XBL.img dump
+- Extract efi drivers from XBL.elf or XBL.img dump
 - Also create `gen_config.fdf` sections file and add UUIDs in each driver folder for reference
 
 
